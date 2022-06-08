@@ -779,6 +779,7 @@ progress {
   .row-cols-lg-1 > * {
     flex: 0 0 auto;
     width: 100%;
+	
   }
 
   .row-cols-lg-2 > * {
